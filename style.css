@@ -1,0 +1,232 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+.img{
+     background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: relative;  
+}
+h1{
+    color: yellow;
+    position: absolute;
+    top: 1% ;
+    margin: 3% 30%;
+}
+.circle{
+    position: absolute;
+    top: 16%;
+    left:50% ;
+    color: orangered;
+}
+.circle1{
+     width: 80px;
+    height: 80px;
+    background-color: rgb(143, 44, 8);
+    border-radius: 50% ;
+    position: absolute;
+    margin-top: 5%;   
+    left: 3%;
+    z-index: 10;
+    border: 1px solid #cfb9b9; 
+}
+.circle2{
+     width: 80px;
+    height: 80px;
+    background-color: rgb(189, 56, 8);
+    border-radius: 50% ;
+    position: absolute;
+    margin-top: 5%;   
+    left: 20%;
+    z-index: 13;
+    border: 1px solid #e6cdcd; 
+}
+.circle3{
+     width: 80px;
+    height: 80px;
+    background-color:orangered;
+    border-radius: 50% ;
+    position: absolute;
+    margin-top: 5%;   
+    left: 35%;
+    z-index: 14;
+    border: 1px solid #e6cdcd; 
+}
+.circle4{
+     width: 80px;
+    height: 80px;
+    background-color: rgb(255, 92, 33);
+    border-radius: 50% ;
+    position: absolute;
+    margin-top: 5%;   
+    left: 50%;
+    z-index: 15;
+    border: 1px solid #e6cdcd; 
+}
+.circle5{
+     width: 80px;
+    height: 80px;
+    background-color: rgb(248, 117, 69);
+    border-radius: 50% ;
+    position: absolute;
+    margin-top: 5%;   
+    left: 65%;
+    z-index: 16;
+    border: 1px solid #e6cdcd; 
+}.circle6{
+     width: 80px;
+    height: 80px;
+    background-color: rgb(253, 133, 89);
+    border-radius: 50% ;
+    position: absolute;
+    margin-top: 5%;   
+    left: 80%;
+    z-index: 17;
+    border: 1px solid #e6cdcd; 
+}
+.circle0{
+    position: absolute;
+    top: 40%;
+    left:53% ;
+    color: greenyellow;
+}
+.circle11{
+     width: 80px;
+    height: 80px;
+    background-color: rgb(7, 90, 7);
+    border-radius: 50% ;
+    position: absolute;
+    margin-top: 5%;   
+    left: 3%;
+    z-index: 10;
+    border: 1px solid #cfb9b9; 
+}
+.circle12{
+     width: 80px;
+    height: 80px;
+    background-color:green ;
+    border-radius: 50% ;
+    position: absolute;
+    margin-top: 5%;   
+    left: 20%;
+    z-index: 13;
+    border: 1px solid #e6cdcd; 
+}
+.circle13{
+     width: 80px;
+    height: 80px;
+    background-color:rgb(11, 194, 11);
+    border-radius: 50% ;
+    position: absolute;
+    margin-top: 5%;   
+    left: 35%;
+    z-index: 14;
+    border: 1px solid #e6cdcd; 
+}
+.circle14{
+     width: 80px;
+    height: 80px;
+    background-color:rgb(105, 212, 43);
+    border-radius: 50% ;
+    position: absolute;
+    margin-top: 5%;   
+    left: 50%;
+    z-index: 15;
+    border: 1px solid #e6cdcd; 
+}
+.circle15{
+     width: 80px;
+    height: 80px;
+    background-color: rgb(132, 214, 9);
+    border-radius: 50% ;
+    position: absolute;
+    margin-top: 5%;   
+    left: 65%;
+    z-index: 16;
+    border: 1px solid #e6cdcd; 
+}.circle16{
+     width: 80px;
+    height: 80px;
+    background-color: greenyellow;
+    border-radius: 50% ;
+    position: absolute;
+    margin-top: 5%;   
+    left: 80%;
+    z-index: 17;
+    border: 1px solid #e6cdcd; 
+}
+.circle01{
+    position: absolute;
+    top: 70%;
+    left:55% ;
+    color:magenta;
+}
+.circle21{
+     width: 80px;
+    height: 80px;
+    background-color:mediumvioletred;
+    border-radius: 50% ;
+    position: absolute;
+    margin-top: 5%;   
+    left: 3%;
+    z-index: 10;
+    border: 1px solid #cfb9b9; 
+}
+.circle22{
+     width: 80px;
+    height: 80px;
+    background-color:mediumorchid;
+    border-radius: 50% ;
+    position: absolute;
+    margin-top: 5%;   
+    left: 20%;
+    z-index: 13;
+    border: 1px solid #e6cdcd; 
+}
+.circle23{
+     width: 80px;
+    height: 80px;
+    background-color:rgb(209, 26, 209);
+    border-radius: 50% ;
+    position: absolute;
+    margin-top: 5%;   
+    left: 35%;
+    z-index: 14;
+    border: 1px solid #e6cdcd; 
+}
+.circle24{
+     width: 80px;
+    height: 80px;
+    background-color: rgb(235, 46, 165);
+    border-radius: 50% ;
+    position: absolute;
+    margin-top: 5%;   
+    left: 50%;
+    z-index: 15;
+    border: 1px solid #e6cdcd; 
+}
+.circle25{
+     width: 80px;
+    height: 80px;
+    background-color: rgb(238, 29, 238);
+    border-radius: 50% ;
+    position: absolute;
+    margin-top: 5%;   
+    left: 65%;
+    z-index: 16;
+    border: 1px solid #e6cdcd; 
+}
+.circle26{
+     width: 80px;
+    height: 80px;
+    background-color:palevioletred;
+    border-radius: 50% ;
+    position: absolute;
+    margin-top: 5%;   
+    left: 80%;
+    z-index: 17;
+    border: 1px solid #e6cdcd; 
+}
+
